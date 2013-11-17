@@ -1,13 +1,13 @@
 
-http://username.github.io/about.html
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://xorhead.github.io/blog/about.html
+http://xorhead.github.io/blog/archive.html
+http://xorhead.github.io/blog/atom.xml
+http://xorhead.github.io/blog/categories.html
+http://xorhead.github.io/blog/index.html
+http://xorhead.github.io/blog/pages.html
+http://xorhead.github.io/blog/rss.xml
+http://xorhead.github.io/blog/sitemap.txt
+http://xorhead.github.io/blog/tags.html
 
-http://username.github.io/2013/11/17/hello-world
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://xorhead.github.io/blog/2013/11/17/hello-world
+http://xorhead.github.io/blog/lessons/2011/12/29/jekyll-introduction
